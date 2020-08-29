@@ -4,6 +4,8 @@ Libraries used are
 ----BeautifulSoup$
 ----Pandas
 
+#Used data from a weather website and process it and store it inside a .csv file
+
 
 
 ![alt text](http://url/to/img.png)
